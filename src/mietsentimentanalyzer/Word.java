@@ -1,8 +1,5 @@
 package mietsentimentanalyzer;
-/**
- *
- * @author nilarnab
- */
+
 public class Word {
     private String wordString;
     private double likelihoodPositive;

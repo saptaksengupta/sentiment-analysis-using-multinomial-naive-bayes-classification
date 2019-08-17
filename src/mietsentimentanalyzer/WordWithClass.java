@@ -5,10 +5,6 @@
  */
 package mietsentimentanalyzer;
 
-/**
- *
- * @author nilarnab
- */
 public class WordWithClass {
     private Word word;
     private TrainingRow.SentimentClass sentimentClass;

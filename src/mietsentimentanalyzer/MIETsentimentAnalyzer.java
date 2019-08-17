@@ -1,9 +1,5 @@
 package mietsentimentanalyzer;
 
-/**
- *
- * @author nilarnab
- */
 public class MIETsentimentAnalyzer {
 
     /**

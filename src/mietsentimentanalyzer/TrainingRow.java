@@ -1,8 +1,5 @@
 package mietsentimentanalyzer;
-/**
- *
- * @author nilarnab
- */
+
 public class TrainingRow {
     private SentimentClass sentimentClass;
     private String sentence;
